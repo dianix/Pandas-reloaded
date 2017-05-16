@@ -28,9 +28,19 @@ nav {
     padding-top: 2%;
 }
 
+#fotos span {
+    font-size: 1.5em;
+}
+
+#fotos span:hover {
+    cursor: pointer;
+    color: #7dce00;
+}
+
 #botonera {
     height: 10%;
     text-align: center;
+    padding-top: 2em;
 }
 
 #botonera button {
